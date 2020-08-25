@@ -16,7 +16,7 @@
 email: paul.cromey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer with over 15 years experience in Media, Investment Management and Banking.
-  
+      
   Java, Spring, Security, ForgeRock, IAM, REST, NodeJS, AWS API Gateway, AWS Lambda, AWS DynamoDB, Serverless, Microservices
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
