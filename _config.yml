@@ -17,9 +17,8 @@ title: Paul Cromey
 email: paul.cromey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer with over 15 years experience in Media, Investment Management and Banking.
-  An enthusiastic adaptable hard working individual who is happy to work as part of a team or on own initiative; customer-focused with a confident and approachable manner. Excellent communication skills.
-  Full software development life-cycle, both waterfall and agile. Extensive offshore development experience, including team lead.
-  AWS API Gateway, AWS Lambda, AWS DynamoDB, Serverless, Microservices, Node, J2EE, Java, Spring, REST, Hibernate, JMS, MQ, Oracle, HTML5, JavaScript, CSS3 
+  
+  Java, Spring, Security, ForgeRock, IAM, REST, NodeJS, AWS API Gateway, AWS Lambda, AWS DynamoDB, Serverless, Microservices
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  paulcromey
